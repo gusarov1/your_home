@@ -16,25 +16,6 @@ a [href^=tel] {
     color: #000;
 }
 
-input[type=tel] {
-    border:none;
-    background-image: linear-gradient(transparent, transparent);
-    background-color:transparent;
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    box-shadow: none;
-    background: transparent;
-    outline: none;
-    border-radius: 0;
-    -webkit-border-radius: 0;
-    border: 0;
-    box-shadow: none !important;
-    background-clip: padding-box !important
-}
-
 .container {
     
     width: 100%;
