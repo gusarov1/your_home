@@ -26,7 +26,11 @@ input [type=tel] {
     -moz-appearance: none;
     appearance: none;
     box-shadow: none;
+    background: transparent;
     outline: none;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    border: 0;
 }
 
 .container {
