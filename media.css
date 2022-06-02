@@ -1,0 +1,4243 @@
+@media (min-width: 1800px) {
+    .project__individual__bg {
+        height: 1200px;
+    }
+
+    .application {
+        width: 1280px;
+    }
+}
+
+@media (min-width: 1600px) {
+    .project__presentation {
+        margin: 0 auto;
+    }
+
+    .dome__description__wrapper__block {
+        margin: 0 auto;
+        position: unset;
+    }
+
+    .ind__prices {
+        margin: 130px 80px 80px 80px;
+    }
+
+    .project__individual__bg {
+        width: 1600px;
+        margin: 80px auto 0;
+    }
+}
+
+@media (min-width: 1500px) {
+    .project__individual__bg {
+        height: 885px;
+    }
+
+    .services__prices__bg__ready {
+        margin: 0 auto;
+    }
+
+    .application {
+        width: 1250px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .services__prices__bg {
+        margin: 0 auto;
+        width: 1377px;
+    }
+}
+
+@media (max-width: 1500px) {
+    .application {
+        width: 1250px;
+        margin: 130px auto;
+    }
+
+    .project__individual__bg {
+        height: 810px;
+    }
+}
+
+@media (max-width: 1460px) {
+    .intro__bg {
+        width: 890px;
+    }
+
+    .img__blessed__2 {
+        width: 745px;
+    }
+
+    .services__prices__bg__ready {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1440px) {
+    .intro__bg {
+        width: 870px;
+    }
+
+    .img__blessed__2 {
+        width: 725px;
+    }
+
+    .img__blessed__1 {
+        width: 390px;
+    }
+
+    .footer__link__wrapper {
+        width: 825px;
+    }
+
+    .project__individual__bg {
+        height: 794px;
+    }
+}
+
+@media (max-width: 1410px) {
+    .project_wrapper {
+        margin-left: 40px;
+    }
+
+    .project__individual__bg {
+        height: 779px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .footer__link__wrapper {
+        width: 800px;
+    }
+
+    .application {
+        width: 1210px;
+    }
+
+    .project__individual__bg {
+        height: 764px;
+    }
+}
+
+@media (max-width: 1390px) {
+    .services__prices__bg {
+        width: 100%;
+    }
+
+    .intro__bg {
+        width: 830px;
+        height: 480px;
+        transform: translateY(-126%);
+    }
+
+    .intro__text_block {
+        margin-top: 30px;
+    }
+
+    .project__individual__bg {
+        height: 756px;
+    }
+
+    .img__blessed__2 {
+        width: 710px;
+    }
+
+    .img__blessed__1 {
+        width: 360px;
+    }
+
+    .presentation__arrows {
+        transform: translateX(390px);
+    }
+
+    .project_wrapper {
+        margin-left: 28px;
+    }
+
+    .ind__prices {
+        max-width: 1000px;
+    }
+
+    .footer__link__wrapper {
+        width: 785px;
+    }
+
+    .naming {
+        line-height: 1.7;
+        margin-top: 25px;
+    }
+}
+
+@media (min-width: 1360px) {
+    .intro__form.dome {
+        width: 600px;
+    }
+}
+
+@media (max-width: 1360px) {
+    .intro__bg {
+        width: 800px;
+        background-size: cover;
+        height: 480px;
+        transform: translateY(-126%);
+    }
+
+    .img__blessed__1 {
+        width: 352px;
+    }
+
+    .img__blessed__2 {
+        width: 680px;
+    }
+
+    .presentation__arrows {
+        position: absolute;
+        top: 95%;
+        transform: translateX(400px);
+    }
+
+    .ind__prices {
+        max-width: 970px;
+    }
+
+    .ind__prices.ready {
+        max-width: 935px;
+        transform: translate(0%, 50%);
+        margin: 130px auto 80px auto;
+    }
+
+    .ind__prices.ready._active {
+        margin: 130px auto 80px auto;
+        transform: translate(0%, 0%);
+    }
+
+    .ind__prices.other {
+        max-width: 1090px;
+        transform: translate(0%, 50%);
+        margin: 130px auto 80px auto;
+    }
+
+    .ind__prices.other._active {
+        margin: 130px auto 80px auto;
+        transform: translate(0%, 0%);
+    }
+
+    .project__individual__bg {
+        height: 740px;
+    }
+
+    .application {
+        width: 1180px;
+        margin: 120px auto;
+    }
+
+    .application__img {
+        width: 410px;
+        height: 290px;
+    }
+
+    .footer {
+        padding: 50px 30px 0px 20px;
+    }
+
+    .dome__wrapper {
+        padding: 0 10px;
+    }
+}
+
+@media (max-width: 1320px) {
+    .intro__bg {
+        background-size: contain;
+        width: 770px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .intro__bg {
+        background-size: cover;
+        height: 480px;
+        width: 740px;
+        transform: translateY(-126%);
+    }
+
+    .img__blessed__2 {
+        width: 650px;
+    }
+
+    .application {
+        margin: 110px auto;
+        width: 1160px;
+    }
+
+    .project__individual__bg {
+        height: 719px;
+    }
+
+    .dome__wrapper {
+        padding: 0 0px;
+        position: relative;
+    }
+
+    .card__img {
+        width: 245px;
+    }
+
+    .description__name {
+        margin-right: 40px;
+    }
+
+    .dome__card {
+        width: 320px;
+        height: 465px;
+    }
+
+    .dome__description__bg {
+        width: 680px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 635px;
+    }
+
+    .ind__prices {
+        max-width: 930px;
+    }
+
+    .ind__prices.other {
+        max-width: 1045px;
+    }
+
+    .ind__prices__text {
+        width: 430px;
+    }
+
+    .footer__link__wrapper {
+        width: 790px;
+    }
+}
+
+@media (max-width: 1270px) {
+    .intro__bg {
+        background-size: cover;
+        height: 464px;
+        width: 714px;
+        transform: translateY(-123%);
+    }
+
+    .project_wrapper {
+        margin-left: 25px;
+    }
+
+    .presentation__arrows {
+        transform: translateX(383px);
+    }
+
+    .project__individual__bg {
+        height: 702px;
+    }
+
+    .application__text {
+        font-size: 17px;
+        width: 710px;
+    }
+
+    .application__title {
+        width: 688px;
+    }
+
+    .application__form {
+        width: 700px;
+    }
+
+    .application {
+        width: 1160px;
+    }
+
+    .dome__description__wrapper__block {
+        padding: 0 20px 0 30px;
+    }
+
+    .dome__description__bg {
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 620px;
+        height: 830px;
+    }
+
+    .ind__prices {
+        max-width: 840px;
+        justify-content: space-between;
+        align-content: flex-start;
+        flex-direction: row;
+        align-items: center;
+        margin: 130px 20px 80px 30px;
+    }
+
+    .ind__prices__info {
+        display: flex;
+        flex-direction: column;
+        width: 409px;
+        transform: translateX(0px);
+    }
+
+    .ind__prices.other {
+        max-width: 895px;
+    }
+
+    .footer__logo {
+        height: 40px;
+        width: 154px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .services__prices__bg {
+        height: 408px;
+    }
+
+    .footer {
+        padding: 50px 15px 0px 15px;
+    }
+}
+
+@media (max-width: 1230px) {
+    .intro__title {
+        font-size: 48px;
+    }
+
+    .intro__text {
+        font-size: 20px;
+    }
+
+    .btn__arrow {
+        width: 30px;
+        background-size: contain;
+        height: 8px;
+    }
+
+    .intro__form {
+        width: 466px;
+    }
+
+    .intro__bg {
+        background-size: cover;
+        height: 450px;
+        width: 696px;
+        transform: translateY(-126%);
+    }
+
+    .img__blessed__2 {
+        margin-left: 15px;
+        width: 597px;
+    }
+
+    .project__link {
+        line-height: 1.5;
+        font-size: 16px;
+    }
+
+    .white__bg__img2__text {
+        font-size: 15px;
+    }
+
+    .white__bg__img2 {
+        width: 488px;
+    }
+
+    .presentation__arrows {
+        transform: translateX(364px);
+    }
+
+    .project__individual__bg {
+        height: 670px;
+    }
+
+    .application {
+        width: 1090px;
+    }
+
+    .application__img {
+        width: 368px;
+        height: 290px;
+    }
+
+    .application__form {
+        width: 660px;
+    }
+
+    .application__text {
+        font-size: 17px;
+        width: 654px;
+    }
+
+    .card__img {
+        width: 235px;
+    }
+
+    .dome__card {
+        padding: 10px 20px;
+        width: 279px;
+        height: 450px;
+    }
+
+    .card__title {
+        margin-bottom: 30px;
+    }
+
+    .dome__wrapper {
+        margin-top: 70px;
+    }
+
+    .dome__description__bg {
+        width: 567px;
+        height: 744px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 645px;
+    }
+
+    .dome__description__wrapper__text__1 p {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .title__text__2 {
+        font-size: 17px;
+    }
+
+    .text__text2 {
+        font-size: 18px;
+    }
+
+    .dome__description__wrapper__text__2 {
+        margin-top: 55px;
+    }
+
+    .sidebar__wrapper {
+        right: 20px;
+    }
+
+    .ind__prices.other {
+        max-width: 990px;
+    }
+
+    .footer__link__column {
+        width: 210px;
+    }
+
+    .footer__link {
+        line-height: 1.7;
+        margin-bottom: 15px;
+    }
+
+    .footer__link__wrapper {
+        width: 735px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .btn__consult {
+        padding: 15px 10px;
+    }
+
+    .intro__form {
+        width: 445px;
+    }
+
+    .intro__bg {
+        background-size: cover;
+        height: 430px;
+        width: 667px;
+        transform: translateY(-132%);
+    }
+
+    .intro__title {
+        margin-bottom: 85px;
+    }
+
+    .intro__form {
+        transform: translateY(-160px);
+    }
+
+    .dome__description__bg {
+        width: 555px;
+        height: 699px;
+    }
+
+    .ind__prices {
+        max-width: 835px;
+        margin-top: 110px;
+        margin-bottom: 110px;
+    }
+
+    .application__img {
+        width: 350px;
+        height: 257px;
+    }
+
+    .application__title {
+        width: 541px;
+    }
+
+    .application__form {
+        width: 625px;
+    }
+
+    .application {
+        width: 1070px;
+    }
+
+    .ind__prices.ready {
+        max-width: 900px;
+    }
+
+    .ind__prices.other {
+        max-width: 900px;
+    }
+
+    .services__prices__bg {
+        height: 393px;
+    }
+
+    .application {
+        margin: 130px 60px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 620px;
+        padding: 0 30px 0 35px;
+    }
+
+    .dome__scheme {
+        width: 210px;
+    }
+
+    .services__prices__bg__ready {
+        height: 460px;
+    }
+}
+
+@media (max-width: 1150px) {
+    .intro__title {
+        font-size: 44px;
+    }
+
+    .intro__text {
+        font-size: 19px;
+        width: 339px;
+    }
+
+    .intro__bg {
+        background-size: cover;
+        height: 418px;
+        width: 653px;
+        transform: translateY(-134%);
+    }
+
+    .btn__consult {
+        padding: 13px 10px;
+    }
+
+    .project__individual__bg {
+        height: 635px;
+    }
+
+    .intro {
+        margin-bottom: 0px;
+    }
+
+    .img__blessed__1 {
+        height: 580px;
+        width: 318px;
+    }
+
+    .img__blessed__2 {
+        height: 455px;
+    }
+
+    .white__bg__img2 {
+        position: absolute;
+        height: 119px;
+        width: 477px;
+        padding: 25px;
+        transform: translateY(52px);
+    }
+
+    .presentation__arrows {
+        transform: translateX(329px);
+    }
+
+    .sidebar__parametr {
+        padding: 15px;
+        font-size: 15px;
+    }
+
+    .sidebar__white__text {
+        width: 220px;
+    }
+
+    .sidebar__white {
+        width: 255px;
+    }
+
+    .application__img {
+        width: 350px;
+        height: 240px;
+    }
+
+    .application {
+        margin: 110px auto;
+        width: 1050px;
+    }
+
+    .dome__description__wrapper__text__1 p {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .text__text2 {
+        font-size: 17px;
+    }
+
+    .dome__scheme {
+        width: 185px;
+        height: 259px;
+    }
+
+    .sidebar__white__text.services {
+        margin-top: 10px;
+    }
+
+    .sidebar__title.services {
+        width: 250px;
+    }
+
+    .intro__form.services {
+        width: 195px;
+    }
+
+    .services__prices__bg__ready {
+        height: 413px;
+    }
+
+    .services__prices__bg {
+        height: 372px;
+    }
+
+    .footer__link__wrapper {
+        margin-left: 25px;
+    }
+
+    .ind__prices {
+        max-width: 804px;
+    }
+}
+
+@media (max-width: 1120px) {
+    .intro__bg {
+        background-size: cover;
+        height: 395px;
+        width: 612px;
+        transform: translateY(-136%);
+    }
+
+    .intro__title {
+        margin-bottom: 65px;
+    }
+
+    .intro__text {
+        margin-bottom: 290px;
+    }
+
+    .intro {
+        margin-bottom: -10px;
+    }
+
+    .soc__title {
+        margin-right: 20px;
+        letter-spacing: 0;
+    }
+
+    .soc__link {
+        margin-right: 15px;
+    }
+
+    .project__title {
+        font-size: 34px;
+    }
+
+    .presentation__arrows {
+        display: none;
+        width: 0;
+        height: 0;
+    }
+
+    .img__blessed__2 {
+        width: 560px;
+    }
+
+    .white__bg__img2 {
+        padding: 20px 10px 0px 20px;
+        width: 465px;
+    }
+
+    .img__blessed__2.build {
+        margin-left: 20px;
+    }
+
+    .application__title {
+        font-size: 19px;
+    }
+
+    .application__text {
+        font-size: 16px;
+        width: 608px;
+    }
+
+    .project__individual__bg {
+        height: 614px;
+    }
+
+    .btn__app__text {
+        width: 270px;
+    }
+
+    .application__form {
+        width: 594px;
+    }
+
+    .application {
+        margin: 100px auto;
+        width: 1000px;
+    }
+
+    .card__img {
+        width: 225px;
+    }
+
+    .ind__prices__card {
+        width: 175px;
+    }
+
+    .block__row {
+        width: 360px;
+    }
+
+    .dome__card {
+        padding: 10px 20px;
+        width: 279px;
+        height: 439px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 585px;
+        padding: 0 30px 0 35px;
+    }
+
+    .dome__description__bg {
+        width: 514px;
+        height: 661px;
+    }
+
+    .dome__description__wrapper__text__2 {
+        margin-top: 39px;
+    }
+
+    .sidebar__white {
+        width: 235px;
+    }
+
+    .footer__link {
+        font-size: 13px;
+    }
+
+    .footer__link__title {
+        margin-bottom: 20px;
+    }
+
+    .footer__tel {
+        font-size: 20px;
+    }
+
+    .naming {
+        font-size: 12px;
+        line-height: 200%;
+        margin-top: 45px;
+    }
+
+    .soc__bar {
+        margin-top: -15px;
+    }
+
+    .btn__services__consult__text {
+        width: 125px;
+    }
+
+    .footer__email {
+        width: 160px;
+    }
+
+    .btn__consult__intro {
+        width: 185px;
+    }
+}
+
+@media (max-width: 1080px) {
+    .intro__bg {
+        background-size: cover;
+        height: 385px;
+        width: 577px;
+        transform: translateY(-137%);
+    }
+
+    .nav__link {
+        margin-right: 15px;
+    }
+
+    .intro__title {
+        font-size: 42px;
+        max-width: 800px;
+    }
+
+    .intro__text {
+        margin-bottom: 279px;
+    }
+
+    .white__bg__img2__text {
+        font-size: 14px;
+    }
+
+    .white__bg__img2 {
+        padding: 20px 10px 0px 20px;
+        width: 438px;
+    }
+
+    .img__blessed__2.build {
+        margin-left: 15px;
+    }
+
+    .soc__bar {
+        margin-top: 0px;
+    }
+
+    .sidebar__white__text {
+        width: 232px;
+        font-size: 15px;
+    }
+
+    .sidebar__parametr {
+        padding: 13px 10px;
+        font-size: 14px;
+    }
+
+    .application {
+        margin: 110px auto;
+        width: 980px;
+    }
+
+    .application__title {
+        font-size: 18px;
+    }
+
+    .application__text {
+        font-size: 15px;
+        width: 569px;
+    }
+
+    .application__img {
+        width: 350px;
+        height: 225px;
+    }
+
+    .card__img {
+        width: 211px;
+    }
+
+    .dome__description__wrapper__text__1 p {
+        font-size: 16px;
+    }
+
+    .text__text2 {
+        font-size: 16px;
+    }
+
+    .dome__description__bg {
+        width: 499px;
+        height: 646px;
+    }
+
+    .ind_card_img {
+        height: 70px;
+        width: 70px;
+    }
+
+    .ind__card__area {
+        font-size: 15px;
+    }
+
+    .ind__card__price {
+        font-size: 15px;
+    }
+
+    .ind__prices__card {
+        width: 150px;
+    }
+
+    .ind__prices.other {
+        max-width: 870px;
+    }
+
+    .footer__white {
+        padding: 30px 15px 10px;
+    }
+
+    .block__row {
+        width: 320px;
+    }
+
+    .ind__prices {
+        max-width: 785px;
+    }
+
+    .services__prices__bg {
+        height: 371px;
+    }
+
+    .ind__prices__text {
+        width: 457px;
+        font-size: 17px;
+    }
+
+    .ind__prices.ready {
+        max-width: 855px;
+    }
+
+    .project__individual__bg {
+        height: 594px;
+    }
+}
+
+@media (max-width: 1040px) {
+    .header__logo {
+        height: 40px;
+        width: 173px;
+    }
+
+    .nav__link {
+        font-size: 15px;
+        margin-right: 12px;
+    }
+
+    .intro__text {
+        font-size: 17px;
+        width: 324px;
+    }
+
+    .input__label {
+        font-size: 14px;
+    }
+
+    .btn__consult__intro {
+        font-size: 15px;
+    }
+
+    .input__tel:focus+.input__label {
+        transform: translateY(-20px);
+        font-size: 13px;
+    }
+
+    .input__tel:not(:placeholder-shown)+.input__label {
+        transform: translateY(-20px);
+        font-size: 13px;
+    }
+
+    .intro__bg {
+        background-size: cover;
+        height: 345px;
+        width: 537px;
+        transform: translateY(-142%);
+    }
+
+    .intro__title {
+        margin-bottom: 50px;
+    }
+
+    .intro__text {
+        margin-bottom: 260px;
+    }
+
+    .project__title {
+        font-size: 30px;
+    }
+
+    .soc__title {
+        font-size: 13px;
+    }
+
+    .soc__link img {
+        height: 20px;
+    }
+
+    .soc__link.inst img {
+        height: 19px;
+    }
+
+    .project_wrapper {
+        flex-direction: column;
+    }
+
+    .project__links {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        max-width: 970px;
+        width: 100%;
+        margin-bottom: 60px;
+    }
+
+    .project__link {
+        margin-bottom: 0;
+        font-size: 16px;
+    }
+
+    .project__link:last-child {
+        margin-right: 0;
+        display: none;
+        width: 0;
+    }
+
+    .presentation__arrows {
+        display: unset;
+        width: 80px;
+        height: 15px;
+    }
+
+    .project__links.build {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        max-width: 970px;
+        width: 100%;
+        margin-bottom: 60px;
+    }
+
+    .project__link.last__build {
+        display: none;
+        width: 0;
+    }
+
+    .project__link::after {
+        content: '';
+        width: 100%;
+    }
+
+    .img__blessed__2 {
+        width: 650px;
+    }
+
+    .tel__form.app {
+        width: 180px;
+    }
+
+    .application__form {
+        width: 545px;
+    }
+
+    .application {
+        margin: 114px auto;
+        width: 940px;
+    }
+
+    .project__individual__bg {
+        height: 574px;
+    }
+
+    .application__img {
+        width: 294px;
+        height: 225px;
+    }
+
+    .sidebar__title.services {
+        width: 218px;
+        font-size: 14px;
+    }
+
+    .sidebar__white__text.services {
+        margin-top: 10px;
+        font-size: 12px;
+        width: 133px;
+    }
+
+    .sidebar__white {
+        width: 205px;
+    }
+
+    .tel__form.services {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    .btn__services__consult__text {
+        font-size: 14px;
+    }
+
+    .btn__consult.services {
+        width: 80%;
+        align-items: center;
+    }
+
+    .btn__arrow.services {
+        width: 0;
+        display: none;
+    }
+
+    .services__prices__bg {
+        height: 342px;
+    }
+
+    .sidebar__white__text {
+        width: 211px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .intro__title {
+        font-size: 40px;
+        max-width: 800px;
+    }
+
+    .intro__form.main {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        width: 275px;
+        height: 85px;
+        flex-direction: column;
+    }
+
+    .intro__text {
+        margin-bottom: 225px;
+    }
+
+    .btn__consult__intro {
+        width: 172px;
+    }
+
+    .intro__bg {
+        background-size: cover;
+        height: 379px;
+        width: 629px;
+        transform: translateY(-134%);
+    }
+
+    .project__links {
+        max-width: 930px;
+    }
+
+    .img__blessed__2 {
+        width: 570px;
+    }
+
+    .white__bg__img2.build {
+        width: 423px;
+        transform: translateY(90px);
+    }
+
+    .sidebar__white__text {
+        width: 163px;
+        font-size: 14px;
+        line-height: 2.2;
+    }
+
+    .sidebar__white {
+        height: 185px;
+    }
+
+    .application__img {
+        width: 270px;
+        height: 198px;
+    }
+
+    .application__title {
+        font-size: 17px;
+    }
+
+    .application__text {
+        font-size: 14px;
+        width: 515px;
+    }
+
+    .application {
+        margin: 80px auto;
+        width: 855px;
+    }
+
+    .project__individual__bg {
+        height: 545px;
+    }
+
+    .btn__app__text {
+        width: 250px;
+        font-size: 15px;
+    }
+
+    .application__form {
+        width: 520px;
+    }
+
+    .card__img {
+        width: 183px;
+    }
+
+    .card__title {
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+    .description__name {
+        margin-right: 40px;
+        font-size: 13px;
+    }
+
+    .description__area {
+        font-size: 13px;
+        margin-left: -45px;
+    }
+
+    .card__btn__text {
+        font-size: 13px;
+        line-height: 2.25;
+    }
+
+    .dome__card {
+        height: 400px;
+    }
+
+    .dome__description__wrapper__text__1 p {
+        font-size: 15px;
+    }
+
+    .title__text__2 {
+        font-size: 16px;
+    }
+
+    .text__text2 {
+        font-size: 15px;
+    }
+
+    .btn__consult__intro {
+        font-size: 14px;
+    }
+
+    .dome__scheme {
+        width: 160px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 520px;
+        padding: 0 20px 0 35px;
+    }
+
+    .intro__form.dome {
+        transform: translateY(0px);
+        width: 450px;
+        margin-top: 40px;
+    }
+
+    .dome__description__bg {
+        width: 441px;
+        height: 564px;
+    }
+
+    .ind__prices__title {
+        font-size: 20px;
+        font-family: unset;
+    }
+
+    .ind__prices__text {
+        width: 400px;
+        font-size: 15px;
+        font-family: unset;
+    }
+
+    .ind_card_img {
+        height: 60px;
+        width: 60px;
+    }
+
+    .ind__card__area {
+        font-size: 13px;
+    }
+
+    .ind__card__price {
+        font-size: 13px;
+    }
+
+    .ind__prices {
+        max-width: 690px;
+    }
+
+    .services__prices__bg {
+        height: 323px;
+    }
+
+    .ind__prices {
+        margin-top: 100px;
+        margin-bottom: 60px;
+    }
+
+    .services__prices__bg__ready {
+        height: 355px;
+    }
+
+    .ind__prices.ready {
+        max-width: 750px;
+    }
+
+    .ind__prices.other {
+        max-width: 800px;
+    }
+
+    .footer__link__title {
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+
+    .footer__link {
+        font-size: 12px;
+        width: 175px;
+    }
+
+    .footer__tel {
+        font-size: 18px;
+    }
+
+    .soc__bar {
+        margin-top: -15px;
+    }
+
+    .footer__email {
+        width: 140px;
+        font-size: 12px;
+    }
+
+    .footer__link__column {
+        width: 164px;
+    }
+
+    .footer {
+        padding: 50px 15px 0px 15px;
+    }
+
+    .footer__link__wrapper {
+        width: 580px;
+    }
+
+    .ind__prices__info {
+        width: 351px;
+    }
+}
+
+@media (max-width: 950px) {
+    .intro__bg {
+        background-size: cover;
+        height: 360px;
+        width: 571px;
+        transform: translateY(-134%);
+    }
+
+    .nav__link {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    .header__logo {
+        height: 40px;
+        width: 144px;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .intro__title {
+        font-size: 36px;
+        max-width: 691px;
+        line-height: 55px;
+    }
+
+    .project__heading__wrapper {
+        align-items: baseline;
+    }
+
+    .intro__text {
+        margin-bottom: 225px;
+        font-size: 16px;
+        font-family: unset;
+        width: 300px;
+    }
+
+    .input__label {
+        font-size: 13px;
+    }
+
+    .input__tel:focus+.input__label {
+        transform: translateY(-20px);
+        font-size: 12px;
+    }
+
+    .input__tel:not(:placeholder-shown)+.input__label {
+        transform: translateY(-20px);
+        font-size: 12px;
+    }
+
+    .soc__bar {
+        transform: translateY(-2px);
+    }
+
+    .project__title {
+        font-size: 26px;
+    }
+
+    .soc__title {
+        font-size: 12px;
+    }
+
+    .project__link {
+        margin-bottom: 0;
+        font-size: 15px;
+    }
+
+    .project__links {
+        max-width: 869px;
+    }
+
+    .img__blessed__1 {
+        height: 580px;
+        width: 318px;
+        background-size: contain;
+    }
+
+    .white__bg__img2__text {
+        font-size: 13px;
+    }
+
+    .img__blessed__2 {
+        width: 517px;
+        height: 455px;
+        background-size: contain;
+    }
+
+    .white__bg__img2 {
+        height: 94px;
+        transform: translateY(-62px);
+    }
+
+    .white__bg__img2.build {
+        width: 423px;
+        transform: translateY(-60px);
+    }
+
+    .presentation__arrows {
+        top: 78%;
+        transform: translateX(333px);
+    }
+
+    .project__links.build {
+        max-width: 867px;
+        width: 100%;
+    }
+
+    .project {
+        margin-bottom: 80px;
+    }
+
+    .btn__consult {
+        padding: 11px 10px;
+    }
+
+    .sidebar__parametr {
+        padding: 13px 10px;
+        font-size: 13px;
+    }
+
+    .project__individual__bg {
+        height: 520px;
+    }
+
+    .application {
+        margin: 80px auto;
+        width: 845px;
+    }
+
+    .application__title {
+        font-size: 16px;
+        width: 467px;
+    }
+
+    .application__text {
+        font-size: 13px;
+        width: 492px;
+    }
+
+    .application__form {
+        width: 470px;
+    }
+
+    .btn__app__text {
+        font-size: 13px;
+        width: 180px;
+    }
+
+    .btn__consult.app {
+        align-items: center;
+    }
+
+    .application__img {
+        width: 256px;
+        height: 198px;
+    }
+
+    .application {
+        width: 810px;
+        align-items: center;
+    }
+
+    .card__title {
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+
+    .description__name {
+        margin-right: 40px;
+        font-size: 12px;
+    }
+
+    .description__area {
+        font-size: 12px;
+        margin-left: -45px;
+    }
+
+    .card__btn__text {
+        font-size: 12px;
+        line-height: 2.25;
+    }
+
+    .dome__card {
+        height: 390px;
+    }
+
+    .dome__description__wrapper__text__1 p {
+        font-size: 14px;
+    }
+
+    .title__text__2 {
+        font-size: 15px;
+    }
+
+    .text__text2 {
+        font-size: 14px;
+    }
+
+    .btn__consult.dome span {
+        font-size: 14px;
+    }
+
+    .dome__scheme {
+        width: 150px;
+    }
+
+    .ind__prices__text {
+        width: 411px;
+        font-size: 14px;
+        font-family: unset;
+    }
+
+    .ind__prices {
+        max-width: 670px;
+    }
+
+    .services__prices__bg {
+        height: 309px;
+    }
+
+    .ind__prices.ready {
+        max-width: 755px;
+    }
+
+    .ind__prices.other {
+        max-width: 750px;
+    }
+
+    .services__prices__bg__ready {
+        height: 335px;
+    }
+
+    .footer__link {
+        font-size: 11px;
+        width: 175px;
+    }
+
+    .footer__link__title {
+        margin-bottom: 15px;
+        font-size: 14px;
+    }
+
+    .footer__white {
+        padding: 30px 0px 10px;
+    }
+
+    .soc__link img {
+        height: 17px;
+    }
+
+    .soc__link.inst img {
+        height: 16px;
+    }
+
+    .naming {
+        font-size: 11px;
+        line-height: 200%;
+        margin-top: 35px;
+        width: 172px;
+    }
+
+    .footer__link__column {
+        width: 170px;
+    }
+
+    .footer__link__wrapper {
+        margin-left: 16px;
+    }
+
+    .presentation__arrows {
+        display: none;
+        width: 0;
+    }
+}
+
+@media (max-width: 900px) {
+    .nav__link {
+        font-size: 13px;
+        margin-right: 10px;
+    }
+
+    .header__logo {
+        height: 32px;
+    }
+
+    .intro__title {
+        font-size: 32px;
+        max-width: 641px;
+        line-height: 50px;
+    }
+
+    .intro__text {
+        margin-bottom: 225px;
+        font-size: 14px;
+        font-family: unset;
+        width: 235px;
+    }
+
+    .intro__form.main {
+        width: 234px;
+        height: 88px;
+    }
+
+    .btn__consult__intro {
+        width: 170px;
+    }
+
+    .input__tel.intro__input {
+        width: 85%;
+    }
+
+    .intro__bg {
+        height: 320px;
+        width: 517px;
+        transform: translateY(-142%);
+    }
+
+    .project__title {
+        font-size: 22px;
+    }
+
+    .soc__title {
+        font-size: 11px;
+    }
+
+    .soc__link.inst img {
+        height: 15px;
+    }
+
+    .project__links {
+        margin-bottom: 40px;
+    }
+
+    .project__link {
+        font-size: 14px;
+    }
+
+    .img__blessed__1 {
+        height: 450px;
+        width: 318px;
+        background-size: contain;
+    }
+
+    .img__blessed__2 {
+        width: 489px;
+    }
+
+    .white__bg__img2__text {
+        font-size: 11px;
+    }
+
+    .white__bg__img2 {
+        padding: 15px 10px 0px 15px;
+        width: 387px;
+    }
+
+    .project__links.build {
+        max-width: 788px;
+        width: 100%;
+    }
+
+    .soc__bar.individual {
+        transform: translateY(10px);
+    }
+
+    .sidebar__white__text {
+        width: 177px;
+        font-size: 12px;
+        line-height: 2.15;
+    }
+
+    .sidebar__white {
+        height: 178px;
+    }
+
+    .sidebar__parametr {
+        padding: 13px 31px;
+        font-size: 11px;
+        max-width: 192px;
+    }
+
+    .application__img {
+        width: 235px;
+        height: 198px;
+    }
+
+    .project__individual__bg {
+        height: 498px;
+    }
+
+    .application {
+        width: 750px;
+        align-items: center;
+    }
+
+    .dome__wrapper {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .application__title {
+        font-size: 15px;
+        width: 467px;
+    }
+
+    .application__text {
+        font-size: 12px;
+        width: 458px;
+    }
+
+    .btn__app__text {
+        font-size: 12px;
+        width: 166px;
+    }
+
+    .btn__consult {
+        padding: 10px 10px;
+    }
+
+    .application__form {
+        width: 460px;
+    }
+
+    .card__img {
+        width: 150px;
+    }
+
+    .dome__card {
+        padding: 10px 8px;
+        width: 306px;
+        height: 370px;
+    }
+
+    .dome__description__wrapper__text__1 p:nth-child(2) {
+        display: none;
+    }
+
+    .title__text__2 {
+        line-height: 1.7;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 455px;
+        padding: 0 20px 0 25px;
+    }
+
+    .btn__consult.dome {
+        width: 185px;
+        align-items: center;
+    }
+
+    .intro__form.dome {
+        width: 400px;
+    }
+
+    .btn__consult.dome span {
+        font-size: 14px;
+        width: 104px;
+    }
+
+    .input__tel.dome {
+        width: 85%;
+    }
+
+    .dome__description {
+        margin-bottom: -20px;
+    }
+
+    .sidebar__title.services {
+        width: 185px;
+        font-size: 12px;
+    }
+
+    .sidebar__tel.services {
+        font-size: 18px;
+    }
+
+    .sidebar__white__text.services {
+        margin-top: 10px;
+        font-size: 11px;
+        width: 122px;
+    }
+
+    .intro__form.services {
+        margin-top: 15px;
+    }
+
+    .sidebar__white {
+        width: 195px;
+    }
+
+    .ind_card_img {
+        height: 50px;
+        width: 50px;
+    }
+
+    .ind__card__area {
+        font-size: 12px;
+    }
+
+    .ind__card__price {
+        font-size: 12px;
+    }
+
+    .ind__prices__title {
+        font-size: 19px;
+        font-family: unset;
+    }
+
+    .ind__prices__text {
+        width: 370px;
+        font-size: 13px;
+        font-family: unset;
+    }
+
+    .ind__prices__info {
+        width: 315px;
+    }
+
+    .ind__prices.ready {
+        max-width: 689px;
+    }
+
+    .ind__prices.other {
+        max-width: 700px;
+    }
+
+    .ind__prices__card {
+        width: 140px;
+    }
+
+    .block__row {
+        width: 295px;
+    }
+
+    .sidebar__wrapper {
+        right: 5px;
+    }
+
+    .ind__prices {
+        max-width: 600px;
+        margin: 50px 20px 20px 30px;
+    }
+
+    .ind__prices.ready {
+        margin: 40px auto;
+    }
+
+    .ind__prices.other {
+        margin: 40px auto;
+    }
+
+    .ind__prices.ready._active {
+        margin: 40px auto;
+    }
+
+    .ind__prices.other._active {
+        margin: 40px auto;
+    }
+
+    .services__prices__bg {
+        height: 292px;
+    }
+
+    .services__prices__bg__ready {
+        height: 315px;
+    }
+
+    .footer__link {
+        font-size: 10px;
+        width: 140px;
+    }
+
+    .services__prices {
+        margin-top: 80px;
+    }
+
+    .footer__logo {
+        height: 31px;
+    }
+
+    .footer__tel {
+        font-size: 15px;
+    }
+
+    .footer__email {
+        width: 131px;
+        font-size: 11px;
+    }
+
+    .footer {
+        padding: 40px 15px 0px 15px;
+    }
+
+    .naming {
+        font-size: 10px;
+        line-height: 200%;
+        margin-top: 35px;
+        width: 160px;
+    }
+
+    .soc__link.footer__soc {
+        margin-right: 9px;
+    }
+
+    .soc__bar.individual.footer {
+        width: 129px;
+        margin-left: 7px;
+    }
+}
+
+@media (max-width: 850px) {
+    .nav__link {
+        font-size: 12px;
+        margin-right: 9px;
+    }
+
+    .intro__title {
+        font-size: 29px;
+        max-width: 608px;
+        line-height: 45px;
+    }
+
+    .intro__bg {
+        height: 304px;
+        width: 491px;
+        transform: translateY(-148%);
+    }
+
+    .btn__consult__intro {
+        font-size: 13px;
+        width: 155px;
+    }
+
+    .project__links {
+        max-width: 814px;
+        margin-left: -13px;
+    }
+
+    .application {
+        width: 750px;
+        margin: 70px auto;
+    }
+
+    .project__individual__bg {
+        height: 467px;
+    }
+
+    .img__blessed__2 {
+        width: 435px;
+    }
+
+    .white__bg__img2 {
+        height: 82px;
+        transform: translateY(-112px);
+        width: 361px;
+    }
+
+    .white__bg__img2.build {
+        width: 339px;
+        transform: translateY(-124px);
+    }
+
+    .project_wrapper {
+        margin-top: 40px;
+    }
+
+    .application__title {
+        font-size: 14px;
+        width: 484px;
+    }
+
+    .card__title {
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+
+    .card__btn__text {
+        font-size: 11px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 416px;
+        padding: 0 20px 0 25px;
+    }
+
+    .btn__consult.dome {
+        width: 180px;
+        align-items: center;
+    }
+
+    .intro__form.dome {
+        width: 360px;
+    }
+
+    .sidebar__white.services {
+        width: 450px;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .sidebar__white.services {
+        height: 200px;
+        padding: 20px;
+        transform: translateY(-50px);
+        padding-bottom: 10px;
+    }
+
+    .sidebar__title.services {
+        width: 210px;
+        font-size: 12px;
+    }
+
+    .sidebar__wrapper {
+        right: 10px;
+    }
+
+    .sidebar__white__text.services {
+        margin-top: 10px;
+        font-size: 12px;
+        width: 122px;
+        margin-left: 36px;
+    }
+
+    .sidebar__tel.services {
+        font-size: 18px;
+        margin-right: 20px;
+    }
+
+    .intro__form.services {
+        width: 180px;
+        margin-right: -5px;
+        margin-top: 0px;
+    }
+
+    .ind__prices.ind__block {
+        margin: 177px auto 20px auto;
+        transform: translate(0, 50%);
+    }
+
+    .ind__prices._active {
+        transform: translate(0, 0);
+    }
+
+    .tel__form.services {
+        width: 80%;
+        margin-bottom: 15px;
+    }
+
+    .btn__consult.services {
+        padding: 8px 10px;
+    }
+
+    .services__prices__bg {
+        height: 270px;
+    }
+
+    .ind__prices__text {
+        width: 334px;
+    }
+
+    .services__prices__bg__ready {
+        height: 320px;
+    }
+
+    .footer__link__column {
+        width: 165px;
+    }
+
+    .footer__link__wrapper {
+        margin-left: 16px;
+        margin-right: -30px;
+    }
+}
+
+@media (max-width: 800px) {
+    .project__link {
+        font-size: 13px;
+    }
+
+    .project {
+        margin-bottom: 30px;
+    }
+
+    .img__blessed__1 {
+        height: 443px;
+        width: 270px;
+        background-size: contain;
+    }
+
+    .img__blessed__2 {
+        width: 455px;
+        height: 455px;
+        background-size: contain;
+    }
+
+    .white__bg__img2__text {
+        padding: 10px 0px 0px 0px;
+        font-size: 10px;
+        width: 350px;
+        transform: translateY(-90px);
+    }
+
+    .project_wrapper {
+        margin-left: 5px;
+    }
+
+    .project__links {
+        margin-left: -5px;
+    }
+
+    .white__bg__img2 {
+        padding: 5px 13px;
+    }
+
+    .white__bg__img2.build {
+        width: 361px;
+        transform: translateY(-89px);
+    }
+
+    .sidebar__parametr {
+        padding: 13px 10px;
+        font-size: 11px;
+        max-width: 162px;
+    }
+
+    .img__blessed__2 {
+        margin-left: 8px;
+    }
+
+    .application__img {
+        width: 206px;
+        height: 198px;
+    }
+
+    .project__individual__bg {
+        height: 442px;
+    }
+
+    .application {
+        width: 719px;
+        align-items: flex-end;
+    }
+
+    .application__text {
+        margin-top: 30px;
+        margin-bottom: 44px;
+    }
+}
+
+@media (max-width: 750px) {
+    .nav__link {
+        font-size: 11px;
+        margin-right: 8px;
+    }
+
+    .header__logo {
+        height: 40px;
+        width: 116px;
+    }
+
+    .intro__title {
+        font-size: 26px;
+        max-width: 548px;
+        line-height: 40px;
+        margin-bottom: 30px;
+    }
+
+    .intro__text {
+        font-size: 13px;
+        margin-bottom: 210px;
+    }
+
+    .intro__bg {
+        height: 276px;
+        width: 433px;
+        transform: translateY(-154%);
+    }
+
+    .project__link {
+        font-size: 12px;
+    }
+
+    .project__links {
+        margin-bottom: 30px;
+    }
+
+    .project__links.build {
+        margin-bottom: 30px;
+    }
+
+    .img__blessed__1 {
+        height: 373px;
+        width: 248px;
+        background-size: contain;
+    }
+
+    .img__blessed__2 {
+        margin-left: 10px;
+        width: 433px;
+        height: 455px;
+        background-size: contain;
+    }
+
+    .white__bg__img2 {
+        height: 88px;
+        transform: translateY(-112px);
+    }
+
+    .white__bg__img2.build {
+        width: 361px;
+        transform: translateY(-112px);
+    }
+
+    .project__title {
+        font-size: 20px;
+    }
+
+    .project_wrapper {
+        margin-top: 50px;
+    }
+
+    .project {
+        margin-bottom: 20px;
+    }
+
+    .project {
+        margin-bottom: -10px;
+    }
+
+    .soc__title {
+        font-size: 10px;
+        margin-right: 10px;
+    }
+
+    .soc__link {
+        margin-right: 10px;
+    }
+
+    .soc__link img {
+        height: 15px;
+    }
+
+    .soc__link.inst img {
+        height: 14px;
+    }
+
+    .sidebar__white__text {
+        width: 170px;
+        font-size: 11px;
+        line-height: 2;
+    }
+
+    .sidebar__white {
+        height: 140px;
+        width: 185px;
+        transform: translateY(-50px);
+    }
+
+    .sidebar__parametr {
+        padding: 13px 11px;
+        font-size: 10px;
+        max-width: 145px;
+        margin-bottom: 13px;
+    }
+
+    .application__img {
+        width: 178px;
+        height: 186px;
+    }
+
+    .application__title {
+        font-size: 13px;
+        width: 468px;
+    }
+
+    .input__label {
+        font-size: 12px;
+    }
+
+    .input__tel:focus+.input__label {
+        transform: translateY(-20px);
+        font-size: 11px;
+    }
+
+    .input__tel:not(:placeholder-shown)+.input__label {
+        transform: translateY(-20px);
+        font-size: 11px;
+    }
+
+    .application__form {
+        width: 430px;
+    }
+
+    .tel__form.app {
+        width: 146px;
+    }
+
+    .application__form {
+        width: 412px;
+    }
+
+    .application {
+        width: 689px;
+    }
+
+    .project__individual__bg {
+        height: 412px;
+    }
+
+    .application__text {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .dome__card:last-child {
+        display: none;
+        height: 0;
+        width: 0;
+    }
+
+    .card__img {
+        width: 141px;
+    }
+
+    .dome__card {
+        padding: 10px 16px;
+        width: 213px;
+        height: 324px;
+    }
+
+    .card__title {
+        margin-bottom: 15px;
+        font-size: 13px;
+    }
+
+    .dome__description__wrapper__text__1 p {
+        font-size: 13px;
+    }
+
+    .title__text__2 {
+        font-size: 14px;
+    }
+
+    .text__text2 {
+        font-size: 13px;
+    }
+
+    .btn__consult.dome span {
+        font-size: 13px;
+        width: 155px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 369px;
+        padding: 0 20px 0 25px;
+    }
+
+    .btn__arrow.dome {
+        display: none;
+        width: 0;
+        height: 0;
+    }
+
+    .input__tel.dome {
+        width: 75%;
+    }
+
+    .intro__form.dome {
+        width: 334px;
+    }
+
+    .dome__scheme {
+        transform: translateY(-148px);
+        width: 135px;
+    }
+
+    .services__prices__bg {
+        height: 232px;
+    }
+
+    .services__prices__bg__ready {
+        height: 253px;
+    }
+
+    .ind__prices {
+        max-width: 670px;
+    }
+
+    .ind__prices.ready {
+        max-width: 656px;
+    }
+
+    .ind__prices.other {
+        max-width: 650px;
+    }
+
+    .footer__link__title {
+        margin-bottom: 15px;
+        font-size: 13px;
+    }
+
+    .footer__link {
+        font-size: 9px;
+        width: 129px;
+    }
+
+    .footer__link__column:last-child {
+        display: none;
+        width: 0;
+        height: 0;
+    }
+
+    .footer__link__wrapper {
+        width: 410px;
+        margin-right: 16px;
+    }
+
+    .footer__link {
+        font-size: 9px;
+        width: 167px;
+    }
+
+    .footer__white {
+        padding: 10px 0px 10px;
+    }
+}
+
+@media (max-width: 700px) {
+    .nav__link {
+        font-size: 10px;
+        margin-right: 8px;
+    }
+
+    .header__logo {
+        height: 40px;
+        width: 105px;
+    }
+
+    .intro__title {
+        font-size: 22px;
+        max-width: 469px;
+        line-height: 35px;
+        margin-bottom: 30px;
+    }
+
+    .intro__text {
+        font-size: 11px;
+        margin-bottom: 195px;
+        width: 200px;
+    }
+
+    .input__tel.intro__input {
+        width: 75%;
+    }
+
+    .input__label {
+        font-size: 10px;
+    }
+
+    .input__tel:focus+.input__label {
+        transform: translateY(-20px);
+        font-size: 9px;
+    }
+
+    .input__tel:not(:placeholder-shown)+.input__label {
+        transform: translateY(-20px);
+        font-size: 9px;
+    }
+
+    .intro__bg {
+        height: 254px;
+        width: 402px;
+        transform: translateY(-156%);
+    }
+
+    .btn__consult__intro {
+        font-size: 11px;
+        width: 129px;
+    }
+
+    .btn__consult {
+        padding: 9px 9px;
+    }
+
+    .intro {
+        margin-bottom: -60px;
+    }
+
+    .project__title {
+        font-size: 18px;
+    }
+
+    .soc__title {
+        font-size: 9px;
+        margin-right: 10px;
+    }
+
+    .soc__link img {
+        height: 14px;
+    }
+
+    .soc__link.inst img {
+        height: 13px;
+    }
+
+    .project__link {
+        font-size: 11px;
+    }
+
+    .project__links {
+        max-width: 880px;
+    }
+
+    .img__blessed__1 {
+        height: 373px;
+        width: 229px;
+        background-size: contain;
+    }
+
+    .img__blessed__2 {
+        margin-left: 10px;
+        width: 398px;
+        height: 455px;
+        background-size: contain;
+    }
+
+    .white__bg__img2 {
+        padding: 10px 10px 0px 15px;
+        width: 344px;
+        height: 82px;
+        transform: translateY(-133px);
+    }
+
+    .img__blessed__2.build {
+        margin-left: 10px;
+        width: 383px;
+    }
+
+    .img__blessed__1 {
+        width: 222px;
+    }
+
+    .img__blessed__2._active {
+        transform: translate(0px, 30px);
+        opacity: 1;
+    }
+
+    .white__bg__img2.build {
+        width: 309px;
+        transform: translateY(-150px);
+    }
+
+    .sidebar__white__text {
+        font-size: 10px;
+    }
+
+    .sidebar__parametr {
+        padding: 13px 11px;
+        font-size: 9px;
+        max-width: 130px;
+        margin-bottom: 13px;
+    }
+
+    .application__img {
+        width: 153px;
+        height: 170px;
+    }
+
+    .application__title {
+        font-size: 12px;
+        width: 439px;
+    }
+
+    .application__text {
+        font-size: 11px;
+        width: 443px;
+    }
+
+    .project__individual__bg {
+        height: 386px;
+    }
+
+    .application {
+        width: 630px;
+        margin: 60px auto;
+    }
+
+    .application__text {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .btn__app__text {
+        font-size: 11px;
+        width: 149px;
+    }
+
+    .btn__consult {
+        padding: 8px 8px;
+    }
+
+    .application__form {
+        width: 399px;
+    }
+
+    .card__img {
+        width: 125px;
+    }
+
+    .dome__card {
+        padding: 10px 16px;
+        width: 213px;
+        height: 313px;
+    }
+
+    .card__title {
+        line-height: 1.5;
+    }
+
+    .dome__wrapper {
+        margin-top: 25px;
+        margin-bottom: 45px;
+    }
+
+    .dome__description__wrapper__text__1 p {
+        font-size: 12px;
+    }
+
+    .dome__description__wrapper__text__2 {
+        margin-top: 30px;
+    }
+
+    .title__text__2 {
+        font-size: 13px;
+        margin-top: 15px;
+    }
+
+    .text__text2 {
+        font-size: 12px;
+    }
+
+    .intro__form.dome {
+        width: 310px;
+    }
+
+    .btn__consult.dome span {
+        font-size: 12px;
+        width: 139px;
+    }
+
+    .dome__scheme {
+        transform: translateY(-135px);
+        width: 122px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 345px;
+        padding: 0 20px 0 20px;
+    }
+
+    .dome__description__bg {
+        width: 325px;
+        height: 494px;
+    }
+
+    .dome__description {
+        margin-bottom: -45px;
+    }
+
+    .sidebar__title.services {
+        width: 177px;
+        font-size: 11px;
+        line-height: 1.5;
+    }
+
+    .sidebar__white__text.services {
+        margin-top: 10px;
+        font-size: 11px;
+        width: 101px;
+        margin-left: 42px;
+        line-height: 1.5;
+    }
+
+    .sidebar__tel.services {
+        font-size: 16px;
+        margin-right: 23px;
+    }
+
+    .btn__services__consult__text {
+        font-size: 11px;
+    }
+
+    .sidebar__white.services {
+        width: 410px;
+        height: 175px;
+    }
+
+    .ind_card_img {
+        height: 45px;
+        width: 45px;
+        margin: 5px 0;
+    }
+
+    .ind__card__area {
+        font-size: 11px;
+    }
+
+    .ind__card__price {
+        font-size: 11px;
+    }
+
+    .ind__prices__card {
+        width: 120px;
+    }
+
+    .block__row {
+        width: 250px;
+        margin-bottom: 20px;
+    }
+
+    .ind__prices__title {
+        font-size: 16px;
+    }
+
+    .ind__prices__text {
+        font-size: 12px;
+        width: 334px;
+        line-height: 1.75;
+        margin-top: 20px;
+    }
+
+    .ind__prices.ind__block {
+        margin-top: 160px;
+        max-width: 550px;
+    }
+
+    .services__prices__bg {
+        height: 228px;
+    }
+
+    .ind__prices.ready {
+        max-width: 600px;
+    }
+
+    .ind__prices {
+        margin-bottom: 35px;
+        margin-top: 50px;
+    }
+
+    .ind__prices.other {
+        max-width: 600px;
+    }
+
+    .footer__link {
+        width: 157px;
+    }
+
+    .footer__link__wrapper {
+        width: 315px;
+        margin-right: 16px;
+    }
+
+    .footer__logo {
+        height: 27px;
+    }
+}
+
+@media (max-width: 650px) {
+    .header__logo {
+        height: 25px;
+        width: 85px;
+    }
+
+    .nav__link {
+        font-size: 9px;
+        margin-right: 5px;
+    }
+
+    .intro__title {
+        font-size: 20px;
+        max-width: 375px;
+        line-height: 1.6;
+        margin-bottom: 25px;
+    }
+
+    .intro__text_block {
+        margin-top: 25px;
+    }
+
+    .intro__text {
+        font-size: 10px;
+        margin-bottom: 186px;
+        width: 164px;
+    }
+
+    .input__label {
+        font-size: 9px;
+    }
+
+    .input__tel:focus+.input__label {
+        transform: translateY(-15px);
+        font-size: 8px;
+    }
+
+    .input__tel:not(:placeholder-shown)+.input__label {
+        transform: translateY(-15px);
+        font-size: 8px;
+    }
+
+    .intro__form.main {
+        width: 189px;
+        height: 69px;
+    }
+
+    .btn__consult {
+        padding: 8px 7px;
+    }
+
+    .btn__consult__intro {
+        font-size: 10px;
+        width: 116px;
+    }
+
+    .intro__bg {
+        height: 221px;
+        width: 387px;
+        transform: translateY(-158%);
+    }
+
+    .intro {
+        margin-bottom: -85px;
+    }
+
+    .project__bg {
+        padding: 15px 0;
+    }
+
+    .project__title {
+        font-size: 17px;
+    }
+
+    .soc__link {
+        margin-right: 7px;
+    }
+
+    .project__link {
+        font-size: 10px;
+    }
+
+    .img__blessed__1 {
+        width: 209px;
+    }
+
+    .img__blessed__2 {
+        width: 385px;
+    }
+
+    .white__bg__img2__text {
+        padding: 8px 0px 0px 0px;
+        font-size: 9px;
+        width: 316px;
+        transform: translateY(-90px);
+    }
+
+    .white__bg__img2 {
+        padding: 10px 10px 0px 15px;
+        width: 312px;
+        height: 82px;
+        transform: translateY(-140px);
+    }
+
+    .project {
+        margin-bottom: -70px;
+    }
+
+    .white__bg__img2.build {
+        width: 312px;
+        transform: translateY(-150px);
+        padding: 8px 8px 0 8px;
+    }
+
+    .application__img {
+        width: 137px;
+        height: 155px;
+    }
+
+    .project__individual__bg {
+        height: 359px;
+    }
+
+    .application {
+        width: 600px;
+    }
+
+    .application__text {
+        font-size: 10px;
+        width: 380px;
+    }
+
+    .application__text {
+        margin-top: 15px;
+        margin-bottom: 25px;
+    }
+
+    .btn__app__text {
+        font-size: 10px;
+        width: 134px;
+    }
+
+    .application__form {
+        width: 378px;
+    }
+
+    .description__name {
+        margin-right: 44px;
+        font-size: 10px;
+    }
+
+    .description__area {
+        font-size: 10px;
+        margin-left: -45px;
+    }
+
+    .card__btn__text {
+        font-size: 10px;
+    }
+
+    .dome__card {
+        width: 213px;
+        height: 295px;
+    }
+
+    .dome__description__wrapper__text__1 p {
+        font-size: 11px;
+    }
+
+    .title__text__2 {
+        font-size: 12px;
+        margin-top: 15px;
+    }
+
+    .text__text2 {
+        font-size: 11px;
+        margin-top: 10px;
+    }
+
+    .btn__consult.dome span {
+        font-size: 11px;
+        width: 132px;
+    }
+
+    .btn__consult.dome {
+        width: 156px;
+        align-items: center;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 311px;
+        padding: 0 20px 0 20px;
+    }
+
+    .input__tel.intro__input {
+        width: 85%;
+    }
+
+    .input__tel.app {
+        width: 75%;
+    }
+
+    .input__tel {
+        padding: 1px 0;
+        font-size: 10px;
+    }
+
+    .ind__prices__text {
+        width: 318px;
+    }
+
+    .intro__form.dome {
+        width: 275px;
+    }
+
+    .tel__form.dome {
+        width: 65%;
+    }
+
+    .sidebar__white.services {
+        width: 410px;
+        height: 158px;
+        transform: translateY(-22px);
+    }
+
+    .services__prices__bg__ready {
+        height: 218px;
+    }
+
+    .services__prices__bg {
+        height: 201px;
+    }
+
+    .footer__link__column {
+        width: 141px;
+    }
+
+    .footer__link {
+        width: 130px;
+    }
+}
+
+@media (max-width: 600px) {
+    .intro__bg {
+        height: 211px;
+        width: 353px;
+        transform: translateY(-168%);
+    }
+
+    .project__link.elegant {
+        display: none;
+        height: 0;
+        width: 0;
+    }
+
+    .img__blessed__1 {
+        width: 188px;
+    }
+
+    .img__blessed__2 {
+        width: 345px;
+    }
+
+    .white__bg__img2 {
+        padding: 4px 7px 0px 11px;
+        width: 312px;
+        height: 75px;
+        transform: translateY(-182px);
+    }
+
+    .project_wrapper {
+        margin-top: 40px;
+    }
+
+    .project__links {
+        margin-bottom: 35px;
+    }
+
+    .project {
+        margin-bottom: -90px;
+    }
+
+    .project__links.build {
+        margin-bottom: 35px;
+    }
+
+    .sidebar__white {
+        height: 133px;
+        width: 160px;
+        transform: translateY(-43px);
+        padding: 15px 0;
+    }
+
+    .sidebar__white__text {
+        width: 150px;
+    }
+
+    .application__title {
+        font-size: 11px;
+        width: 346px;
+    }
+
+    .application__text {
+        font-size: 9px;
+        width: 319px;
+    }
+
+    .tel__form.app {
+        width: 115px;
+    }
+
+    .application__form {
+        width: 335px;
+    }
+
+    .application {
+        width: 335px;
+        margin: 50px auto;
+    }
+
+    .application__img {
+        height: 159px;
+    }
+
+    .project__individual__bg {
+        height: 332px;
+        margin-top: 20px;
+    }
+
+    .card__title {
+        margin-bottom: 11px;
+        font-size: 12px;
+    }
+
+    .card__btn__arrow {
+        display: none;
+        width: 0;
+        height: 0;
+    }
+
+    .card__img {
+        width: 117px;
+    }
+
+    .card__description {
+        margin-bottom: 0;
+    }
+
+    .dome__card {
+        width: 213px;
+        height: 265px;
+    }
+
+    .dome__description__bg {
+        width: 333px;
+        height: 419px;
+        margin-left: -24px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 280px;
+        padding: 0 20px 0 20px;
+    }
+
+    .first__dome__descr {
+        display: none;
+        width: 0;
+        height: 0;
+    }
+
+    .input__tel.dome {
+        width: 85%;
+    }
+
+    .tel__form.dome {
+        width: 112px;
+    }
+
+    .btn__consult.dome span {
+        font-size: 10px;
+        width: 117px;
+    }
+
+    .btn__consult.dome {
+        width: 131px;
+    }
+
+    .intro__form.dome {
+        width: 238px;
+        margin-top: 20px;
+    }
+
+    .text__text2 {
+        margin-top: 15px;
+    }
+
+    .sidebar__title.services {
+        width: 152px;
+        font-size: 10px;
+        line-height: 1.4;
+    }
+
+    .sidebar__tel.services {
+        font-size: 14px;
+    }
+
+    .sidebar__white__text.services {
+        font-size: 10px;
+        margin-left: 27px;
+    }
+
+    .btn__services__consult__text {
+        font-size: 10px;
+    }
+
+    .intro__form.services {
+        width: 153px;
+    }
+
+    .sidebar__white.services {
+        width: 379px;
+        height: 152px;
+        transform: translateY(-28px);
+    }
+
+    .ind__prices__title {
+        font-size: 14px;
+    }
+
+    .ind__prices__text {
+        font-size: 10px;
+        width: 215px;
+        line-height: 1.55;
+        margin-top: 10px;
+    }
+
+    .ind__card__area {
+        font-size: 9px;
+        line-height: 1.5;
+    }
+
+    .ind__card__price {
+        font-size: 9px;
+    }
+
+    .ind_card_img {
+        height: 35px;
+        width: 35px;
+        margin: 8px 0;
+    }
+
+    .ind__prices__card {
+        width: 98px;
+    }
+
+    .block__row {
+        width: 200px;
+        margin-bottom: 10px;
+    }
+
+    .ind__prices.ind__block {
+        margin-top: 154px;
+        max-width: 503px;
+    }
+
+    .services__prices__bg {
+        height: 180px;
+        margin: 0 auto;
+    }
+
+    .services__prices__bg__ready {
+        height: 220px;
+    }
+
+    .img__blessed__2.build {
+        width: 345px;
+    }
+
+    .white__bg__img2.build {
+        width: 280px;
+        transform: translateY(-177px);
+    }
+
+    .ind__prices__info.ready {
+        width: 190px;
+    }
+
+    .ind__prices.ready {
+        max-width: 460px;
+    }
+
+    .ind__prices__info.other {
+        width: 195px;
+    }
+
+    .ind__prices.other {
+        max-width: 460px;
+    }
+
+    .footer__link__title {
+        margin-bottom: 10px;
+        font-size: 11px;
+    }
+
+    .footer__link {
+        width: 130px;
+        font-size: 8px;
+        margin-bottom: 12px;
+    }
+
+    .footer__link__wrapper {
+        width: 268px;
+        margin-right: 11px;
+    }
+
+    .footer__tel {
+        font-size: 13px;
+    }
+
+    .footer__email {
+        width: 106px;
+        font-size: 9px;
+    }
+
+    .naming {
+        font-size: 9px;
+        line-height: 200%;
+        margin-top: 35px;
+        width: 135px;
+    }
+
+    .soc__bar.individual.footer {
+        width: 110px;
+        margin-left: 17px;
+        transform: translateY(4px);
+    }
+
+    .footer__white {
+        padding: 10px 0px 10px;
+        width: 136px;
+    }
+
+    .footer {
+        padding: 30px 8px 0px 3px;
+    }
+}
+
+@media (max-width: 550px) {
+    .nav__link.contact {
+        display: none;
+        width: 0;
+    }
+
+    .intro__bg {
+        height: 197px;
+        width: 311px;
+        transform: translateY(-173%);
+    }
+
+    .intro__text {
+        line-height: 1.5;
+    }
+
+    .intro__form.main {
+        height: 62px;
+    }
+
+    .btn__arrow {
+        display: none;
+        width: 0;
+    }
+
+    .header {
+        margin-top: 30px;
+    }
+
+    .img__blessed__2 {
+        margin-left: 5px;
+        width: 312px;
+    }
+
+    .img__blessed__1 {
+        width: 180px;
+    }
+
+    .project_wrapper {
+        margin-top: 25px;
+    }
+
+    .white__bg__img2 {
+        width: 275px;
+        height: 63px;
+        transform: translateY(-210px);
+    }
+
+    .project__links {
+        margin-bottom: 25px;
+    }
+
+    .img__blessed__2.build {
+        width: 312px;
+        margin-left: 5px;
+    }
+
+    .white__bg__img2.build {
+        width: 248px;
+        transform: translateY(-210px);
+    }
+
+    .ind__prices__info {
+        width: 234px;
+    }
+
+    .ind__prices.ind__block {
+        margin-top: 140px;
+        max-width: 460px;
+        margin: 177px auto 0px auto;
+    }
+
+    .services__prices__bg {
+        height: 164px;
+    }
+
+    .ind__prices.ready._active {
+        margin: 30px auto;
+        height: 231px;
+    }
+
+    .project__individual__bg {
+        height: 280px;
+    }
+
+    .application__form {
+        width: 290px;
+    }
+
+    .ind__prices.other._active {
+        margin: 40px auto 30px auto;
+        height: 250px;
+    }
+
+    .application {
+        width: 303px;
+        margin: 40px auto;
+    }
+}
+
+@media (max-width: 500px) {
+    .header__logo {
+        height: 21px;
+        width: 72px;
+    }
+
+    .nav__link.prices {
+        display: none;
+        width: 0;
+    }
+
+    .header {
+        margin-top: 25px;
+    }
+
+    .container {
+        padding: 0 3px;
+    }
+
+    .intro__title {
+        font-size: 16px;
+        max-width: 341px;
+        line-height: 1.4;
+        margin-bottom: 20px;
+    }
+
+    .btn__consult {
+        padding: 6px 5px;
+    }
+
+    .intro__text {
+        font-size: 9px;
+        margin-bottom: 182px;
+        width: 149px;
+    }
+
+    .intro__bg {
+        height: 182px;
+        width: 286px;
+        transform: translateY(-175%);
+    }
+
+    .intro__text_block {
+        margin-top: 15px;
+    }
+
+    .intro {
+        margin-bottom: -100px;
+    }
+
+    .project__title {
+        font-size: 15px;
+    }
+
+    .soc__title {
+        font-size: 8px;
+        margin-right: 7px;
+    }
+
+    .soc__link img {
+        height: 13px;
+    }
+
+    .soc__link.inst img {
+        height: 12px;
+    }
+
+    .project__link {
+        font-size: 9px;
+    }
+
+    .img__blessed__1 {
+        display: none;
+    }
+
+    .img__blessed__2 {
+        width: 387px;
+    }
+
+    .project__links {
+        margin-bottom: -5px;
+    }
+
+    .white__bg__img2__text {
+        font-size: 8px;
+    }
+
+    .white__bg__img2 {
+        width: 310px;
+        height: 67px;
+        transform: translateY(-174px);
+    }
+
+    .img__blessed__2.build {
+        width: 355px;
+    }
+
+    .white__bg__img2.build {
+        transform: translateY(-179px);
+    }
+
+    .project__links.build {
+        margin-bottom: 0px;
+    }
+
+    .project__title.build {
+        font-size: 13px;
+    }
+
+    .project__link.last__build2 {
+        display: none;
+        width: 0;
+        height: 0;
+    }
+
+    .project__links.build {
+        max-width: 401px;
+    }
+
+    .white__bg__img2.build {
+        width: 295px;
+        transform: translateY(-162px);
+        padding: 4px 4px 0 8px;
+    }
+
+    .sidebar__white__text {
+        width: 138px;
+        font-size: 9px;
+    }
+
+    .sidebar__white {
+        height: 125px;
+        width: 136px;
+        transform: translateY(-43px);
+        padding: 15px 0;
+    }
+
+    .sidebar__parametr {
+        padding: 8px 6px;
+        font-size: 8px;
+        max-width: 112px;
+        margin-bottom: 11px;
+    }
+
+    .project__individual__bg {
+        height: 277px;
+    }
+
+    .application__img {
+        display: none;
+        width: 0;
+    }
+
+    .btn__app__text {
+        font-size: 9px;
+        width: 153px;
+    }
+
+    .application__form {
+        width: 298px;
+        align-items: center;
+    }
+
+    .application__text {
+        margin-top: 10px;
+        margin-bottom: 15px;
+        font-size: 9px;
+    }
+
+    .application__title {
+        font-size: 10px;
+        width: 320px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 232px;
+        padding: 0 8px 0 19px;
+    }
+
+    .intro__form.dome {
+        width: 153px;
+        margin-top: 8px;
+        flex-direction: column;
+    }
+
+    .sidebar__white.services {
+        width: 312px;
+        height: 125px;
+        transform: translateY(-28px);
+        padding: 4px;
+    }
+
+    .ind__prices.ind__block {
+        margin-top: 116px;
+    }
+
+    .ind__prices__info {
+        width: 250px;
+    }
+
+    .ind__prices {
+        margin-bottom: 10px;
+        margin-top: 50px;
+    }
+
+    .ind__prices.ready {
+        max-width: 435px;
+    }
+
+    .services__prices__bg {
+        height: 150px;
+        max-width: 455px;
+        margin: 0 auto;
+    }
+
+    .services__prices__bg__ready {
+        height: 172px;
+    }
+
+    .dome__description__bg {
+        width: 253px;
+        height: 419px;
+        margin-left: -40px;
+    }
+
+    .ind__prices__text.ready {
+        width: 191px;
+    }
+
+    .ind__prices.other {
+        max-width: 418px;
+    }
+
+    .footer__logo {
+        display: none;
+        width: 0;
+    }
+
+    .footer__link__wrapper {
+        width: 290px;
+        margin-right: -5px;
+    }
+
+    .footer__tel {
+        font-size: 11px;
+    }
+
+    .footer__email {
+        width: 97px;
+        font-size: 8px;
+        margin-top: 0px;
+    }
+
+    .naming {
+        font-size: 8px;
+        line-height: 200%;
+        margin-top: 40px;
+        width: 121px;
+    }
+
+    .footer {
+        padding: 20px 8px 0px 3px;
+    }
+}
+
+@media (max-width: 450px) {
+    .intro__bg {
+        height: 166px;
+        width: 258px;
+        transform: translateY(-187%);
+    }
+
+    .card__img {
+        width: 103px;
+    }
+
+    .card__title {
+        margin-bottom: 11px;
+        font-size: 10px;
+    }
+
+    .description__name {
+        margin-right: 44px;
+        font-size: 8px;
+    }
+
+    .description__area {
+        font-size: 8px;
+        margin-left: -45px;
+    }
+
+    .card__btn__text {
+        font-size: 8px;
+    }
+
+    .card__btn {
+        padding: 0 1px;
+    }
+
+    .dome__card {
+        width: 213px;
+        height: 229px;
+    }
+
+    .dome__wrapper {
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+
+    .dome__description__bg {
+        margin-left: -55px;
+    }
+
+    .sidebar__white.services {
+        display: none;
+        width: 0;
+    }
+
+    .ind__prices__text {
+        font-size: 9px;
+        width: 196px;
+    }
+
+    .ind__prices__title {
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    .ind_card_img {
+        height: 30px;
+        width: 30px;
+    }
+
+    .ind__card__area {
+        font-size: 8px;
+        line-height: 1.5;
+    }
+
+    .ind__prices.ind__block {
+        margin-top: 20px;
+        max-width: 400px;
+    }
+
+    .services__prices__bg {
+        height: 134px;
+        max-width: 415px;
+    }
+
+    .ind__prices__text.ready {
+        max-width: 170px;
+    }
+
+    .ind__prices.ready {
+        max-width: 415px;
+        margin: 20px auto 0 auto;
+    }
+
+    .ind__prices.ready._active {
+        margin: 20px auto 0 auto;
+    }
+
+    .services__prices__bg__ready {
+        height: 147px;
+    }
+
+    .ind__prices__card {
+        padding: 5px 5px;
+    }
+
+    .ind__prices.other._active {
+        margin: 20px auto 0px auto;
+    }
+
+    .ind__prices.other {
+        margin: 20px auto 0px auto;
+    }
+
+    .ind__prices__info.other {
+        width: 172px;
+    }
+
+    .ind__prices.other {
+        max-width: 394px;
+    }
+
+    .body {
+        overflow-x: hidden;
+    }
+
+    .project__individual__bg {
+        height: 248px;
+        margin-top: 40px;
+    }
+
+    .ind__prices__title.ready {
+        max-width: 150px;
+    }
+
+    .project__link.delicate {
+        display: none;
+        width: 0;
+    }
+
+    .project__links {
+        max-width: 380px;
+    }
+
+    .project__title {
+        font-family: 'Playfair Display', sans-serif;
+        line-height: 1.2;
+        font-size: 12px;
+    }
+
+    .intro__form.main {
+        width: 133px;
+    }
+
+    .project__title.build {
+        font-size: 12px;
+    }
+
+    .soc__bar {
+        transform: translateY(1px);
+        height: 12px;
+    }
+
+    .sidebar__wrapper {
+        margin-top: 35px;
+    }
+
+    .sidebar__white {
+        height: 110px;
+    }
+
+    .footer__white {
+        max-width: 112px;
+    }
+
+    .soc__bar.individual.footer {
+        padding: 0;
+    }
+
+    .soc__bar.individual.footer {
+        padding: 0;
+        margin-top: 29px;
+        max-width: 100px;
+    }
+}
+
+@media (max-width: 400px) {
+    .header__logo {
+        height: 14px;
+        width: 50px;
+    }
+
+    .nav__link {
+        font-size: 8.5px;
+        margin-right: 5px;
+    }
+
+    .intro__title {
+        font-size: 14px;
+        max-width: 286px;
+        line-height: 1.3;
+        margin-bottom: 14px;
+    }
+
+    .intro__text {
+        font-size: 8.5px;
+        margin-bottom: 171px;
+        width: 149px;
+    }
+
+    .input__label {
+        font-size: 8.5px;
+    }
+
+    .input__tel:focus+.input__label {
+        transform: translateY(-20px);
+        font-size: 8px;
+    }
+
+    .input__tel:not(:placeholder-shown)+.input__label {
+        transform: translateY(-20px);
+        font-size: 8px;
+    }
+
+    .intro__bg {
+        height: 142px;
+        width: 217px;
+        transform: translateY(-200%);
+    }
+
+    .btn__consult__intro {
+        font-size: 9px;
+        width: 105px;
+    }
+
+    .btn__consult {
+        padding: 4px 4px;
+    }
+
+    .intro__form.main {
+        height: 49px;
+    }
+
+    .intro {
+        margin-bottom: -121px;
+    }
+
+    .soc__link {
+        margin-right: 3px;
+    }
+
+    .project_wrapper {
+        margin-top: 20px;
+    }
+
+    .project__link.liberty {
+        display: none;
+        width: 0;
+    }
+
+    .project__links.build {
+        max-width: 308px;
+        margin-bottom: -9px;
+    }
+
+    .img__blessed__2 {
+        width: 355px;
+    }
+
+    .project {
+        margin-bottom: -115px;
+    }
+
+    .project__title.build {
+        font-size: 10px;
+    }
+
+    .project__title {
+        font-size: 10px;
+    }
+
+    .project.individual {
+        margin-top: 20px;
+    }
+
+    .sidebar__white {
+        height: 108px;
+        width: 136px;
+        transform: translateY(-43px);
+        padding: 15px 0;
+    }
+
+    .project__individual__bg {
+        height: 288px;
+        margin: 20px auto 0px;
+    }
+
+    .sidebar__parametr {
+        max-width: 107px;
+    }
+
+    .card__img {
+        width: 91px;
+    }
+
+    .description__name {
+        display: none;
+        width: 0;
+    }
+
+    .dome__card {
+        height: 200px;
+    }
+
+    .description__area {
+        margin-left: 7px;
+    }
+
+    .card__title {
+        margin-bottom: 3px;
+        font-size: 9px;
+    }
+
+    .title__text__2 {
+        font-size: 11px;
+        margin-top: 15px;
+        line-height: 1.3;
+    }
+
+    .dome__description__wrapper__text__1 p:last-child {
+        display: none;
+        width: 0;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 185px;
+        padding: 0 20px 0 19px;
+    }
+
+    .dome__description__bg {
+        margin-left: -64px;
+    }
+
+    .intro__form.dome {
+        width: 134px;
+    }
+
+    .services__prices {
+        margin-top: 80px;
+    }
+
+    .ind__prices__title {
+        font-size: 11px;
+        line-height: 1.5;
+    }
+
+    .ind__prices__text {
+        font-size: 8.5px;
+        width: 176px;
+    }
+
+    .block__row {
+        width: 169px;
+        margin-bottom: 0px;
+    }
+
+    .ind__prices.ind__block {
+        margin: 20px auto 10px auto;
+    }
+
+    .services__prices__bg {
+        height: 126px;
+    }
+
+    .ind__prices.ready {
+        margin: 20px auto 10px auto;
+        width: 350px;
+    }
+
+    .ind__prices.other {
+        margin: 20px auto 10px auto;
+        max-width: 345px;
+    }
+
+    .footer__link__title {
+        margin-bottom: 5px;
+        font-size: 10px;
+    }
+
+    .footer__link {
+        width: 109px;
+        font-size: 7px;
+        margin-bottom: 8px;
+    }
+
+    .footer__link__wrapper {
+        width: 234px;
+    }
+
+    .footer {
+        padding: 10px 8px 0px 3px;
+    }
+
+    .ind__prices.other._active {
+        transform: translate(0%, 0);
+    }
+
+    .text__text2 {
+        margin-top: 10px;
+        font-size: 9px;
+    }
+
+    .title__text__2 {
+        font-size: 10px;
+    }
+
+    .dome__description__wrapper__block {
+        max-width: 175px;
+        padding: 0 5px 0 7px;
+    }
+}
