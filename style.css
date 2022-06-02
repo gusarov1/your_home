@@ -23,6 +23,8 @@ input {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
     box-shadow: none;
     outline: none;
 }
